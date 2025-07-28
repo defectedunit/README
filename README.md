@@ -66,7 +66,7 @@
     </tr>
   </table>
 
-  <a href="https://www.canva.com/design/DAGucwk1Nr4/n9h0uzL5_eqaWdwDu2hl8Q/watch?utlId=hc2aebcd539/"><img alt="Watch the slide deck of seismic2midi" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+  <a href="https://www.canva.com/design/DAGucwk1Nr4/n9h0uzL5_eqaWdwDu2hl8Q/watch?utlId=hc2aebcd539/"><img alt="Watch the slide deck of seismic2midi" title="Watch the slide deck of seismic2midi" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
 
 <!--<details open> 
