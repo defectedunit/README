@@ -45,7 +45,7 @@
 <details open> 
   <summary><h2>seismic2midi</h2></summary>
 
-  <table>
+<!--  <table>
     <tr>
       <!-- <th>$10+/month</th> -->
       <th>$5+/month</th>
